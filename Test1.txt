@@ -1,2 +1,0 @@
-This is first git file.
-creating git file.
